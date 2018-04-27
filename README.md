@@ -8,3 +8,5 @@ Update - [03/18/2018] Analyses of numerical and textural features of true and fa
 
 Next Goal1: Time-series analysis (show promises to be a main difference between true and fake tweets).
 Next Goal2: Develop RNN to capture time-series and textural feature.
+
+Update - [04/26/2018] The first version of the model is complete!  Using LSTM recurrent neural network with FF neural network we obtained 76% score. We next going to incorporate tweets interaction using graph theory and spare matrix in the next version!
